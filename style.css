@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    overflow-x: hidden;
+}
+.navbar ul{
+list-style-type: none;
+display: flex;
+margin-top: 2%;
+margin-left: 20%;
+}
+.navbar ul li{
+    list-style: none;
+    margin-left: 20%;
+    font-size: 1.1rem;
+   
+}
+.homepage{
+    margin-top: 30%;
+    margin-right:5% ;
+    color: aliceblue;
+  
+}
+.girlphoto img{
+    height: 600px;
+    width: 700px;
+    margin-right: 5%;
+}
+.landpage{
+   background-color: rgb(147, 126, 167);
+    height: 600px;
+    background-repeat: no-repeat;
+    width: 100vw;
+    background-size: cover;
+    
+}
+.headingOne{
+    text-align: center;
+    margin-top: 2%;
+}
+.headingTwo{
+    text-align: center;
+    
+}
+.btn2{
+    margin-left: 40%;
+    margin-bottom: 5%;
+    background-color: palevioletred;
+    color: antiquewhite;
+    border: none;
+}
+.bigPhoto {
+    height: 400px;
+    margin-left: 10%;
+   justify-content: space-around;
+}
+.dressclass{
+    margin-left: 5%;
+}
+.live{
+    width: 500px;
+    height: 300px;
+   
+    
+    
+}
+.athlet{
+   
+    margin-top: -40%;
+    margin-left: 3%;
+    color: antiquewhite;
+}
+.shoes{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 8%;
+}
+.runner{
+    height: 650px;
+}
+.subfooter{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.landscape{
+    background-image: url(./image/girl9.png);
+   background-size: cover;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-bottom: 5%;
+}
+.footer{
+    margin-left: 2%;
+    font-size: 0.5 rem;
+}
+.footer ul li{
+    list-style: none;
+}
+/* buttons */
+.btn3{
+    background-color: palevioletred;
+    color: antiquewhite;
+    border: none;
+    padding: 8px 5px 8px 5px;
+}
+.btn4{
+    background-color: palevioletred;
+    color: antiquewhite;
+    border: none;
+    
+}
